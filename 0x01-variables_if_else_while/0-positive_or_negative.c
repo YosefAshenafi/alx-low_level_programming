@@ -6,6 +6,7 @@
 
 /* betty style doc for function main goes there */
 
+/* main function to execute the task */
 int main(void)
 
 {
