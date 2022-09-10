@@ -6,7 +6,7 @@
  * main - check if the last digit is grater than 5 or
  * if it is 0 or less than 5
  *
- * Return 0
+ * return - success for 0
 */
 
 int main(void)
