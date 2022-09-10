@@ -2,10 +2,10 @@
 #include <stdio.h>
 #include <time.h>
 
-/*main - print after checking if the number is positive,
+/* main - print after checking if the number is positive,
  * negative or zero
  *
- *Return: Always 0
+ * Return: Always 0
 */
 int main(void)
 {
