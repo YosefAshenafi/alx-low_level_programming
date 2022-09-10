@@ -4,8 +4,9 @@
 
 /*
  * main - Entry point
- *
- * Description: 'the program's description'
+ * is_positive - when numbers are greater than 0
+ * is_negative - when numbers are greater than 0
+ * is_zero -when numbers are 0
  *
  * Return: Always 0 (Success)
  */
