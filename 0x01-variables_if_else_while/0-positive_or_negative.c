@@ -15,7 +15,7 @@ int main(void)
 
 	srand(time(0));
 
-	n = rand() - RAND_MAX / 2;	
+	n = rand() - RAND_MAX / 2;
 	/* check if n is positive */
 	if (n > 0)
 	{
