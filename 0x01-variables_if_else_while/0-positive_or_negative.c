@@ -2,14 +2,7 @@
 #include <stdio.h>
 #include <time.h>
 
-/*
- * main - Entry point
- * is_positive - when numbers are greater than 0
- * is_negative - when numbers are greater than 0
- * is_zero -when numbers are 0
- *
- * Return: Always 0 (Success)
- */
+/* main - check if the number is positive, negative or zero */
 int main(void)
 
 {
